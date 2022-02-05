@@ -22,7 +22,7 @@ LendingClub is a peer-to-peer lending services company that allows individual in
 
 ## Conclusions
 
-- For the LogisticRegression Model, scaling the data with StandardScaler improved the testing prediction accuracy by over 15%
+- For the LogisticRegression Model, *scaling* the data with **StandardScaler** improved the testing prediction accuracy by over **15%**
 - LogisticRegression Model (scaled) proved to be the *most accurate* followed by RandomForestClassifier
 - RandomForestClassifier (scaled & unsclaed) have *same degree of accuracy* across the testing and training dataset
 - However, one thing to take note of is that RandomForestClassifier has an accuracy of *1.00* on the training dataset
