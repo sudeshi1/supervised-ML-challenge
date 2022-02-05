@@ -14,8 +14,8 @@ LendingClub is a peer-to-peer lending services company that allows individual in
 
 - Retrieving the data
 - Preprocessing data: Converting catergorial data to numeric data
-- Consider the models
-- Scale the data
+- Considering the models - LogisticRegression model & RandomForestClassifier model
+- Scaling the data
 - Fit a LogisticRegression model & RandomForestClassifier model
 
 ![Models](/images/gif2.gif)
